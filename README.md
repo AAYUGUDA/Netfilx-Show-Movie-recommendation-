@@ -2,7 +2,7 @@
 
 The k-NN algorithm is a type of instance-based learning where you have a dataset of “instances” (in this case, movies), and when you want to predict the rating of a new instance (a movie the user hasn’t rated yet), you find the “k” instances that are most similar to your new instance, and predict the rating based on their ratings.
 
-###Here’s a high-level overview of how this might work in a movie recommendation system:
+### Here’s a high-level overview of how this might work in a movie recommendation system:
 
 Data Collection: Gather a dataset of movies, along with user ratings for those movies. Each movie can be represented by a vector of features (such as genre, director, actors, etc.), and each user can be represented by their ratings of various movies.
 
